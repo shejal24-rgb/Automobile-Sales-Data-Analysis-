@@ -1,0 +1,41 @@
+Sale_ID,Date,Brand,Model,Vehicle_Type,Fuel_Type,City,Units_Sold,Unit_Price,Customer_Type
+1,2026-01-05,Tata,Nexon,SUV,Petrol,Pune,3,1050000,Individual
+2,2026-01-08,Maruti Suzuki,Swift,Hatchback,Petrol,Mumbai,5,650000,Individual
+3,2026-01-12,Hyundai,Creta,SUV,Diesel,Nagpur,2,1450000,Corporate
+4,2026-01-15,Mahindra,Scorpio,SUV,Diesel,Nashik,2,1700000,Fleet
+5,2026-01-19,Kia,Seltos,SUV,Petrol,Pune,3,1200000,Individual
+6,2026-01-22,Tata,Punch,SUV,Petrol,Nagpur,4,620000,Individual
+7,2026-01-25,Maruti Suzuki,Baleno,Hatchback,CNG,Mumbai,4,750000,Corporate
+8,2026-01-28,Hyundai,i20,Hatchback,Petrol,Nashik,3,850000,Individual
+9,2026-02-03,Tata,Tiago EV,Hatchback,Electric,Pune,2,800000,Corporate
+10,2026-02-06,MG,ZS EV,SUV,Electric,Mumbai,1,2300000,Individual
+11,2026-02-09,Maruti Suzuki,Swift,Hatchback,CNG,Nagpur,5,700000,Individual
+12,2026-02-12,Hyundai,Creta,SUV,Petrol,Pune,3,1500000,Individual
+13,2026-02-15,Tata,Nexon,SUV,Electric,Mumbai,2,1500000,Corporate
+14,2026-02-18,Mahindra,Scorpio,SUV,Diesel,Nagpur,3,1750000,Fleet
+15,2026-02-21,Kia,Seltos,SUV,Diesel,Nashik,2,1350000,Individual
+16,2026-02-25,Maruti Suzuki,Baleno,Hatchback,Petrol,Pune,4,720000,Individual
+17,2026-03-02,Tata,Punch,SUV,Petrol,Mumbai,5,640000,Individual
+18,2026-03-05,Hyundai,i20,Hatchback,Petrol,Nagpur,3,870000,Corporate
+19,2026-03-08,MG,ZS EV,SUV,Electric,Pune,2,2350000,Corporate
+20,2026-03-11,Maruti Suzuki,Swift,Hatchback,Petrol,Nashik,6,660000,Individual
+21,2026-03-14,Tata,Nexon,SUV,Diesel,Nagpur,3,1150000,Fleet
+22,2026-03-17,Mahindra,Scorpio,SUV,Diesel,Mumbai,2,1800000,Fleet
+23,2026-03-20,Hyundai,Creta,SUV,Diesel,Nashik,2,1550000,Individual
+24,2026-03-23,Tata,Tiago EV,Hatchback,Electric,Pune,3,820000,Individual
+25,2026-03-27,Kia,Seltos,SUV,Petrol,Mumbai,4,1250000,Corporate
+26,2026-04-02,Maruti Suzuki,Baleno,Hatchback,CNG,Nagpur,5,760000,Individual
+27,2026-04-05,Tata,Punch,SUV,Petrol,Pune,4,630000,Individual
+28,2026-04-08,Hyundai,i20,Hatchback,Petrol,Mumbai,2,860000,Individual
+29,2026-04-11,MG,ZS EV,SUV,Electric,Nagpur,1,2400000,Corporate
+30,2026-04-14,Maruti Suzuki,Swift,Hatchback,CNG,Pune,5,710000,Individual
+31,2026-04-17,Tata,Nexon,SUV,Petrol,Nashik,3,1080000,Corporate
+32,2026-04-20,Mahindra,Scorpio,SUV,Diesel,Pune,2,1780000,Fleet
+33,2026-04-23,Hyundai,Creta,SUV,Petrol,Mumbai,3,1520000,Individual
+34,2026-04-25,Tata,Tiago EV,Hatchback,Electric,Nagpur,2,810000,Individual
+35,2026-04-27,Kia,Seltos,SUV,Diesel,Pune,2,1380000,Corporate
+36,2026-04-29,Maruti Suzuki,Baleno,Hatchback,Petrol,Nashik,4,730000,Individual
+37,2026-03-29,Tata,Punch,SUV,Petrol,Nagpur,3,625000,Individual
+38,2026-02-27,Hyundai,i20,Hatchback,Petrol,Pune,2,855000,Corporate
+39,2026-01-30,Maruti Suzuki,Swift,Hatchback,Petrol,Mumbai,4,655000,Individual
+40,2026-04-30,Tata,Nexon,SUV,Electric,Pune,2,1520000,Corporate
